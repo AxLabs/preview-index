@@ -1,3 +1,11 @@
-# Twitter Preview Index
+# Preview Index
 
-This example was taken from [here](https://www.specialagentsqueaky.com/blog-post/4vyzv3q6/2020-11-21-how-to-embed-your-twitch-stream-inside-tweets/).
+This repository contains:
+- an index of all videos/lives performed by AxLabs;
+- metadata and metatags of all the videos;
+
+## List of videos
+
+👉 Title of the video/live/stream
+📆 2023-05-21
+
