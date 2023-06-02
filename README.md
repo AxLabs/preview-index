@@ -6,8 +6,9 @@ This repository contains:
 
 ## List of videos
 
-* **The Neo Two-Token Blockchain: An Economic Perspective**
+* [**The Neo Two-Token Blockchain: An Economic Perspective**](https://p.axlabs.net/syp-ep7)
   - 👉 Shill Your Proposal - Ep.7
-  - 🔗 https://p.axlabs.net/syp-ep7
+  - 🔗 [https://p.axlabs.net/syp-ep7](https://p.axlabs.net/syp-ep7)
   - 📆 2023-06-01
+  - ⚙️ YouTube Live Stream
 
