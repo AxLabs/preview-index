@@ -1,7 +1,7 @@
 # Preview Index
 
 This repository contains:
-- an index of all videos/lives performed by AxLabs;
+- an index of all videos/lives hosted by AxLabs;
 - metadata and metatags of all the videos;
 
 ## List of videos
